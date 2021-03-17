@@ -13,3 +13,25 @@ img.intro{
   font-weight: bolder;
   font-style: italic;
 }
+
+.intro {
+  color: blue;
+  font-family: serif;
+  font-style: super;
+  font-weight: 300;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+
+img {
+  float: left;
+}
+
+.columns {
+  width: 300px;
+  float: left;
+}
