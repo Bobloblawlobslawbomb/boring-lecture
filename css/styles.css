@@ -1,0 +1,15 @@
+h2.intro{
+  color: red;
+}
+
+p.intro{
+  font-weight:900;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+img.intro{
+  font-kerning: unset;
+  font-weight: bolder;
+  font-style: italic;
+}
