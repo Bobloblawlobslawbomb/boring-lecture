@@ -35,3 +35,35 @@ img {
   width: 300px;
   float: left;
 }
+
+.columnleft {
+  width: 300px;
+  float:left;
+}
+
+.columnright {
+  width: 300px;
+  float: right;
+}
+
+.box1 {
+  float: left;
+  width: 50%;
+  padding: 15px;
+  border: teal;
+  border-width: 50px;
+  background-color: green;
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+
+.box2 {
+  float: right;
+  width: 50%;
+  padding: 15px;
+  border: teal;
+  border-width: 50px;
+  background-color: green;
+  margin-top: 20px;
+  box-sizing: border-box;
+}
